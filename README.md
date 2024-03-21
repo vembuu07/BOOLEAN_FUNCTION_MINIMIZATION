@@ -55,6 +55,8 @@ RegisterNumber:212223220123
 ![image](https://github.com/vembuu07/BOOLEAN_FUNCTION_MINIMIZATION/assets/150772461/2e9a6bce-b109-4751-ba14-7e3937b27786)
 
 **Truth table**
+
+
 ![image](https://github.com/vembuu07/BOOLEAN_FUNCTION_MINIMIZATION/assets/150772461/7662c7af-0abe-4596-b567-9a9a1deab9cf)
 
 **Timing Diagram**
